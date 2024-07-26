@@ -1,6 +1,6 @@
 ![Top Image](https://virtualrecreation.co.uk/site/templates/images/top-slope-d.png)
 
-<h1 align="center">Hi 👋, I'm Atif Waheed</h1>
+<h1 align="center">Hi 👋, I'm Arslan Mirza</h1>
 <h3 align="center">I'm Experienced Flutter developer with 2+ years of success, leading FYP projects and deploying 25+ apps. Skilled in team leadership and committed to innovation and project success.</h3>
 
 <br/>
@@ -17,11 +17,9 @@
 ## Let's Connect :coffee:
 
  <p align="center">
-<a href="mailto:theatifwaheed@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail-new.png" alt="Gmail"/></a>
-<a href="https://github.com/theatifwaheed"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/theatifwaheed/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-<a href="https://www.facebook.com/theatifwaheed/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-<a href="https://www.instagram.com/theatifwaheed/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+<a href="mailto:charslanmirza@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail-new.png" alt="Gmail"/></a>
+<a href="https://github.com/charslanmirza"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/arslanmirzaa/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
  </p>
 
 ## Skills Overview:
