@@ -112,20 +112,20 @@
 ## Statistics
 
 <div align="center">
-  <a href="https://github.com/theatifwaheed/theatifwaheed/blob/main/profile-summary-card-output/github_dark/0-profile-details.svg">
-    <img src="https://github.com/theatifwaheed/theatifwaheed/blob/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Atif Waheed Profile Summary Card">
+  <a href="https://github.com/Charslanmirza/Charslanmirza/blob/main/profile-summary-card-output/github_dark/0-profile-details.svg">
+    <img src="https://github.com/Charslanmirza/Charslanmirza/blob/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Atif Waheed Profile Summary Card">
   </a>
-  <a href="https://github.com/theatifwaheed/theatifwaheed/blob/main/profile-summary-card-output/github_dark/1-repos-per-language.svg">
-    <img src="https://github.com/theatifwaheed/theatifwaheed/blob/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Atif Waheed Profile Summary Card">
+  <a href="https://github.com/Charslanmirza/Charslanmirza/blob/main/profile-summary-card-output/github_dark/1-repos-per-language.svg">
+    <img src="https://github.com/Charslanmirza/Charslanmirza/blob/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Atif Waheed Profile Summary Card">
   </a>
-  <a href="https://github.com/theatifwaheed/theatifwaheed/blob/main/profile-summary-card-output/github_dark/2-most-commit-language.svg">
-    <img src="https://github.com/theatifwaheed/theatifwaheed/blob/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Atif Waheed Profile Summary Card">
+  <a href="https://github.com/Charslanmirza/Charslanmirza/blob/main/profile-summary-card-output/github_dark/2-most-commit-language.svg">
+    <img src="https://github.com/Charslanmirza/Charslanmirza/blob/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Atif Waheed Profile Summary Card">
   </a>
-  <a href="https://github.com/theatifwaheed/theatifwaheed/blob/main/profile-summary-card-output/github_dark/3-stats.svg">
-    <img src="https://github.com/theatifwaheed/theatifwaheed/blob/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Atif Waheed Profile Summary Card">
+  <a href="https://github.com/Charslanmirza/Charslanmirza/blob/main/profile-summary-card-output/github_dark/3-stats.svg">
+    <img src="https://github.com/Charslanmirza/Charslanmirza/blob/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Atif Waheed Profile Summary Card">
   </a>
-  <a href="https://github.com/theatifwaheed/theatifwaheed/blob/main/profile-summary-card-output/github_dark/4-productive-time.svg">
-    <img src="https://github.com/theatifwaheed/theatifwaheed/blob/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Atif Waheed Profile Summary Card">
+  <a href="https://github.com/Charslanmirza/Charslanmirza/blob/main/profile-summary-card-output/github_dark/4-productive-time.svg">
+    <img src="https://github.com/Charslanmirza/Charslanmirza/blob/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Atif Waheed Profile Summary Card">
   </a>
 </div>  
     
@@ -134,5 +134,5 @@
 ![Bottom Image](https://raw.githubusercontent.com/yousufkalim/yousufkalim/master/images/bottom.svg)
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=theatifwaheed&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Charslanmirza&&style=flat-square" align="center" />
 </div>
